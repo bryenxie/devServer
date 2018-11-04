@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "base64-img": "^1.0.4",
     "express": "^4.16.4"
   }
 }
